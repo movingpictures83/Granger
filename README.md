@@ -15,3 +15,5 @@ as input time series data in a CSV file formatted in the following way:
 The plugin will then output to the screen a series of statistics (including the probability)
 regarding data set 1 predictively causing data set 2.
 
+Note: example data (chicken_egg.csv) was assembled from the ChickEgg dataset
+of the lmtest library, which is also required for this plugin.
