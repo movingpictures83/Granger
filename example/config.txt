@@ -1,0 +1,2 @@
+Prefix plugins/Granger/example
+Plugin Granger inputfile chicken_egg.csv outputfile none
