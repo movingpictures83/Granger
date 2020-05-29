@@ -23,7 +23,6 @@
 *                                                                                 *
 ***********************************************************************************
 [PluMA] Running Plugin: Granger
-INFILE: /lclhome/tcickovs/PluMA/plugins//Granger/GrangerPlugin.R
 Granger causality test
 
 Model 1: tsdata[, 2] ~ Lags(tsdata[, 2], 1:1) + Lags(tsdata[, 1], 1:1)
