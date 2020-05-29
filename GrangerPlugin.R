@@ -1,3 +1,4 @@
+suppressMessages(library(lmtest))
 library(lmtest)
 
 input <- function(inputfile) {
