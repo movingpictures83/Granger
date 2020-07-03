@@ -1,8 +1,9 @@
-# Spearman
+# Granger
 # Language: R
 # Input: CSV (abundances)
 # Output: screen
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: lmtest_0.9.37
 
 PluMA plugin to compute Granger Causality (Granger, 1969).  The plugin accepts
 as input time series data in a CSV file formatted in the following way:
